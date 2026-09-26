@@ -1,0 +1,6 @@
+{
+  "name": "Pahlawan Gigi",
+  "description": "Aplikasi edukasi kesehatan gigi dan mulut interaktif untuk anak SD: Petualangan Menyelamatkan Gigi dari Monster Karies!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
